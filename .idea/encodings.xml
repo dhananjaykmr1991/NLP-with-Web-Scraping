@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Pos_Neg_words/negative-words.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/stopwords/StopWords_Currencies.txt" charset="windows-1252" />
+  </component>
+</project>
